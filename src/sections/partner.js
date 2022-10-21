@@ -3,7 +3,7 @@ import { jsx, Container, Box } from 'theme-ui';
 import TextFeature from 'components/text-feature';
 import Image from 'components/image';
 
-import Partner from 'assets/partner.png';
+import Partner from 'assets/dolla-bills.png';
 
 const data = {
   subTitle: 'Smart Betting',

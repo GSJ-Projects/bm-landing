@@ -8,68 +8,63 @@ import PatternBG from 'assets/patternBG.png';
 const packages = [
   {
     name: 'Free Plan',
-    description: 'For Small teams or office',
-    buttonText: 'Signup Now',
+    description: 'For Losers',
+    buttonText: 'Follow Us on Twitter',
     points: [
       {
         icon: <IoIosCheckmarkCircle />,
-        text: 'Ultimate access to all course, exercises and assessments',
+        text: '2 Free Bets Weekly',
         isAvailable: true,
       },
       {
         icon: <IoIosCheckmarkCircle />,
         text:
-          'Free access for all kind of exercise corrections with downloads.',
+          'Delayed Access',
         isAvailable: true,
       },
       {
         icon: <IoIosCheckmarkCircle />,
-        text: 'Total assessment corrections with free download access system',
+        text: 'Free',
         isAvailable: true,
       },
       {
         icon: <IoIosCloseCircle />,
-        text: 'Unlimited download of courses on the mobile app contents',
+        text: 'Live, Unlimited Access',
         isAvailable: false,
       },
       {
         icon: <IoIosCloseCircle />,
-        text: 'Download and print courses and exercises in PDF',
+        text: 'Real Time Updates',
         isAvailable: false,
       },
     ],
   },
   {
-    header: 'Recommended',
+    header: 'Baller',
     name: 'Premium',
-    description: 'For startup enterprise',
-    priceWithUnit: '$29.99/',
+    description: 'For Winners',
+    priceWithUnit: '$20/',
     buttonText: 'Signup Now',
     points: [
       {
         icon: <IoIosCheckmarkCircle />,
-        text: 'Ultimate access to all course, exercises and assessments',
+        text: 'Ultimate access to all live games and odds',
         isAvailable: true,
       },
       {
         icon: <IoIosCheckmarkCircle />,
         text:
-          'Free access for all kind of exercise corrections with downloads.',
+          'Access to future updates (NBA, CFB, etc)',
         isAvailable: true,
       },
       {
         icon: <IoIosCheckmarkCircle />,
-        text: 'Total assessment corrections with free download access system',
+        text: '24/7 Support',
         isAvailable: true,
       },
       {
         icon: <IoIosCheckmarkCircle />,
-        text: 'Unlimited download of courses on the mobile app contents',
-        isAvailable: true,
-      },
-      {
-        icon: <IoIosCheckmarkCircle />,
-        text: 'Download and print courses and exercises in PDF',
+        text: 'Access to Past Game Data',
         isAvailable: true,
       },
     ],

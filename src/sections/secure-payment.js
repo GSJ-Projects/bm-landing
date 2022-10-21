@@ -8,11 +8,11 @@ import PaymentThumb from 'assets/paymentThumb.png';
 import PaymentPattern from 'assets/payment-pattern.png';
 
 const data = {
-  subTitle: 'PAYMENT SECURITY',
-  title: 'Secure Payment Transaction System with #1 Ranking',
+  subTitle: 'Betting Magic...',
+  title: 'In the Palm of Your Hand',
   description:
-    'Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever. Get your tests delivered at let home collect sample.',
-  btnName: 'Learn More',
+    'Stop wasting your money guessing the outcome of a game. Use our smart betting system to make the right choice for you.',
+  btnName: 'Sign Up',
   btnURL: '#',
 };
 

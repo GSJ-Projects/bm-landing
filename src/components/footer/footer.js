@@ -26,8 +26,8 @@ export default function Footer() {
       </Container>
       <Text sx={styles.footer.copyright}>
         All right reserved - Design & Developed by
-        <Link path="https://redq.io/" target="_blank">
-          RedQ, Inc
+        <Link path="#" target="_blank">
+          MVGS
         </Link>
       </Text>
     </footer>

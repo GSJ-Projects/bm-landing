@@ -10,28 +10,23 @@ import ArrowEven from 'assets/arrowEven.png';
 const data = [
   {
     id: 1,
-    title: 'Set disbursement Instructions',
+    title: 'Open Betting Magic',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Login to your account to see live odds updated every 5 minutes',
   },
   {
     id: 2,
-    title: 'Assembly retrieves funds from your account',
+    title: 'Bet on the best opportunity',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Our Charts will tell you the best time to bet and what to bet on.',
   },
   {
     id: 3,
-    title: 'Assembly initiates disbursement',
+    title: 'Make your bet',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Open your favorite sports book and place your bet.',
   },
-  {
-    id: 4,
-    title: 'Customer receives funds payment',
-    text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
-  },
+  
 ];
 
 export default function WorkFlow() {
@@ -101,7 +96,7 @@ const styles = {
       null,
       'repeat(2,1fr)',
       null,
-      'repeat(4,1fr)',
+      'repeat(3,1fr)',
     ],
   },
   card: {

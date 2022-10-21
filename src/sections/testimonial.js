@@ -13,43 +13,43 @@ import Avatar4 from 'assets/testimonial/avatar4.png';
 const data = [
   {
     id: 1,
-    title: 'Modern look & trending design',
+    title: 'Made my money back in one bet',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'I made my monthly fee back in one bet. This thing is so badass.',
     avatar: Avatar1,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
+    name: 'Billy M',
+    designation: '',
     review: 4,
   },
   {
     id: 2,
-    title: 'Design Quality & performance',
+    title: 'My friends hate me',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'My friends keep losing but I keep winning thanks to Betting Magic!',
     avatar: Avatar2,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
+    name: 'Matt V',
+    designation: '',
     review: 5,
   },
   {
     id: 3,
-    title: 'Layout and organized layers',
+    title: 'Easy to Use',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'Betting Magic is easy to use and has a great user interface. I love it!',
     avatar: Avatar3,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
+    name: 'John M',
+    designation: '',
     review: 5,
   },
   {
     id: 4,
-    title: 'Modern look & trending design',
+    title: 'I love it',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'Betting Magic has won me a lot of money and I love it. I recommend it to everyone!',
     avatar: Avatar4,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
-    review: 4,
+    name: 'Mark M',
+    designation: '',
+    review: 4.8,
   },
 ];
 
@@ -80,7 +80,7 @@ export default function TestimonialCard() {
   return (
     <section id="testimonial" sx={{ variant: 'section.testimonial' }}>
       <Container>
-        <SectionHeader slogan="Testimonial" title="Meet Client Satisfaction" />
+        <SectionHeader slogan="100's of Degenerates Love Us" title="Betting Magic Ballers" />
       </Container>
       <Box sx={styles.carouselWrapper}>
         <Carousel
